@@ -21,13 +21,16 @@
 ![Exemplo da gamaplay do jogo](https://raw.githubusercontent.com/lucascdornelas/Galaxian/main/Screenshots/Galaxian.gif)
 
 #### Algumas Telas: 
-* Gameplay: 
+* **Gameplay:**
+
 ![Tela Gameplay](https://raw.githubusercontent.com/lucascdornelas/Galaxian/main/Screenshots/Player%20com%20alguns%20%C3%AAxitos%20durante%20a%20execu%C3%A7%C3%A3o.png)
 
-* Game Over: 
+* **Game Over:** 
+
 ![Tela Game-Over](https://raw.githubusercontent.com/lucascdornelas/Galaxian/main/Screenshots/Tela%20Game%20Over.png)
 
-* Tutorial:
+* **Tutorial:**
+
 ![Tela Tutorial](https://raw.githubusercontent.com/lucascdornelas/Galaxian/main/Screenshots/Tela%20Tutorial.png)
 
 ---
